@@ -1,5 +1,5 @@
-
-## *Noted: This web is to show the bugs detected by Grand anonymously. <u>Do not</u> try to find the real information of the authors of Grand!*
+## Bugs detected by Grand
+### *Noted: This web is to show the bugs detected by Grand anonymously. <u>Do not</u> try to find the real information of the authors of Grand!*
 
 To demonstrate the effectiveness of Grand in finding logic bugs in Gremlin-based graph database systems, we evaluate Grand on four widely-used graph database systems, and real-world logic bugs in them.
 
