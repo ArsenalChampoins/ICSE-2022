@@ -1,5 +1,6 @@
 ## Bugs detected by Grand
 Download and decompress issue.rar under this repository to view 14 bug issue webpages and a summary excel file.
+
 We hide the user information of bug reporter in these webpages, thus they will not reveal authors’ information. But checking the original issue may reveal our information. 
 ### So, *please <u>DO NOT</u> check the orginal issue to seek our detailed accounts.*
 
