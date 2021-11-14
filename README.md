@@ -1,8 +1,8 @@
 ## Bugs detected by Grand
-Download and decompress issue.rar under this repository to view 14 bug issue webpages and a summary excel file.
+You can download and decompress issue.rar under this repository to investigate the webpages of the 14 bug reports and a summary excel file.
 
-We hide the user information of bug reporter in these webpages, thus they will not reveal authors’ information. But checking the original issue may reveal our information. 
-### So, *please <u>DO NOT</u> check the orginal issue to seek our detailed accounts.*
+To anonymize bug reports, we have deleted the bug reporter information in these webpages, thus these webpages will not reveal authors’ information. However, checking the original bug reports on the corresponding issue tracking systems may reveal our information.  
+### So, *please <u>DO NOT</u> investigate the original bug reports in their issue tracking systems of these GDBs.*
 
 To demonstrate the effectiveness of Grand in finding logic bugs in Gremlin-based graph database systems, we evaluate Grand on four widely-used graph database systems, and real-world logic bugs in them.
 
